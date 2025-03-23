@@ -1,0 +1,6 @@
+gradio
+openai==0.27.2
+faiss-cpu
+PyPDF2
+python-docx
+sentence-transformers
